@@ -76,9 +76,8 @@ setup_params = dict(
     maintainer_email=__email__,
     install_requires=[
         "SQLAlchemy",
-        "pyrqlite",
+        "https://github.com/rqlite/pyrqlite/tarball/master#egg=pyrqlite",
     ],
-    dependency_links=['https://github.com/rqlite/pyrqlite/tarball/master#egg=pyrqlite-2'],
     classifiers=[
         'Development Status :: 3 - Alpha',
         'Environment :: Console',
