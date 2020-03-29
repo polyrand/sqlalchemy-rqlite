@@ -1,2 +1,2 @@
-https://github.com/rqlite/pyrqlite/archive/23c987b5d41574390ee9eb8ad42398e77ff8ef5d.tar.gz
+https://github.com/rqlite/pyrqlite/tarball/master
 SQLAlchemy
